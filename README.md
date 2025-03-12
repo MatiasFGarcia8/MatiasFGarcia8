@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Matias. I can speak both Spanish and English.<br><br>I'm mainly interested in desktop and phone apps.<br><br>Heavily focused on improving my skills.<br><br>I'm currently working on a personal project, but not here on github.<br><br>My last school project: https://github.com/Doxed-S-A-S (it's  in spanish)
+Hello, I'm Matias. I can speak both Spanish and English.<br><br>I'm mainly interested in desktop and phone apps.<br><br>Heavily focused on improving my skills.<br><br>I'm currently working on a personal project, but not here on github.<br><br>My last school project: https://github.com/Doxed-S-A-S (it's  in spanish).<br><br>PS: I deleted my old school projects some time ago; my mistake. Those deleted repos were school and personal projects done with Java, MySQL, MariaDB, and some Shell scripts.
 
 
 # 💻 Tech Stack:
